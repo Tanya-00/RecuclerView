@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         Triple(R.drawable.truf, "Трюфельный торт", "700 рублей"),
         Triple(R.drawable.strawberry, "Клубничный торт", "580 рублей"),
         Triple(R.drawable.tiramisu, "Тирамису", "600 рублей"),
-        Triple(R.drawable.red, "Красный бархат", "750 рублей"),
+        Triple(R.drawable.redb, "Красный бархат", "750 рублей"),
         Triple(R.drawable.limon, "Лимонный торт", "620 рублей"),
         Triple(R.drawable.lady, "Дамские пальчики", "600 рублей"),
         Triple(R.drawable.cherry, "Пьяная вишня", "685 рублей"),
